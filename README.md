@@ -1,10 +1,13 @@
-# ShadowFox Python Internship
+# Python Development Internship (ShadowFox) - Task Documentation
 
 ## Name : Md. Ammaar Quadri
 
+<p align="center">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/Logo.jpg" alt="Logo">
+</p>
+
+
 ---
-![Logo](https://github.com/maq765/ShadowFox/blob/main/Logo.jpg)
-# Python Development Internship - Task Documentation
 
 Welcome to the repository for my Python Development Internship at **ShadowFox**! This repository contains the code and detailed documentation for the three tasks I completed during the program. Each task represents a unique aspect of Python development, including working with variables, building a web scraper, implementing a game, and conducting financial data analysis.
 
