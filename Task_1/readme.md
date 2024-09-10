@@ -1,5 +1,9 @@
 # Task Documentation
 
+<p align="center">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/shadowfox.png" alt="Logo" width="200" height="200">
+</p>
+
 ## Task 1: Variables
 
 1. Create a variable named `pi` and store the value of 22/7 in it. Then, check the data type of this variable.
