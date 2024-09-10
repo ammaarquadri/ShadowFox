@@ -33,5 +33,3 @@ This project, completed as part of the Python Development Internship, involves a
 To utilize visualization techniques and financial data analysis to derive meaningful insights about sales trends, cost distribution, and the relationship between manufacturing costs and net sales.
 
 ---
-
-This version adds more detail without being too long, offering a clearer picture of your process and insights.
