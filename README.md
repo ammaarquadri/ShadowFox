@@ -3,7 +3,7 @@
 ## Name : Md. Ammaar Quadri
 
 <p align="center">
-  <img src="https://github.com/maq765/ShadowFox/blob/main/Task_2/Hangman/Shadowfox_logo.jpg" alt="Logo">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/Task_2/Hangman/Shadowfox_logo.jpg" alt="Logo" width="300" height="200">
 </p>
 
 
