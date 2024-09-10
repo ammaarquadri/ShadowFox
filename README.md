@@ -3,7 +3,7 @@
 ## Name : Md. Ammaar Quadri
 
 <p align="center">
-  <img src="https://github.com/maq765/ShadowFox/blob/main/Logo.jpg" alt="Logo">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/Task_2/Hangman/Shadowfox_logo.jpg" alt="Logo">
 </p>
 
 
@@ -77,5 +77,9 @@ This project focuses on analyzing a financial dataset using Python and Jupyter n
 
 ## Conclusion
 Each task in this repository showcases different skills, from basic Python programming to more advanced topics like data scraping, game development, and financial analysis. This internship experience has been incredibly valuable for enhancing my Python development expertise.
+
+<p align="center">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/Logo.jpg" alt="Logo">
+</p>
 
 ---
