@@ -7,7 +7,7 @@
 </p>
 
 
----
+
 
 Welcome to the repository for my Python Development Internship at **ShadowFox**! This repository contains the code and detailed documentation for the three tasks I completed during the program. Each task represents a unique aspect of Python development, including working with variables, building a web scraper, implementing a game, and conducting financial data analysis.
 
