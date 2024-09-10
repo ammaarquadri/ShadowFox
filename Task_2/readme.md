@@ -70,23 +70,6 @@ The Hangman game is a command-line word-guessing game where the player tries to 
 
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/web-scraper-hangman.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd web-scraper-hangman
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Contributing
 Feel free to fork this repository and submit pull requests if you have any improvements or fixes.
 
