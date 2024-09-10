@@ -1,5 +1,9 @@
 # Web Scraper & Hangman Game Project
 
+<p align="center">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/shadowfox.png" alt="Logo" width="200" height="200">
+</p>
+
 ## Overview
 This project includes two tasks: a **Web Scraper** and a **Hangman Game**, both implemented in Python. The Web Scraper is designed to extract data from websites, while the Hangman Game is a word-guessing game with hints and visual feedback.
 
