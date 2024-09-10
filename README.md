@@ -79,7 +79,7 @@ This project focuses on analyzing a financial dataset using Python and Jupyter n
 Each task in this repository showcases different skills, from basic Python programming to more advanced topics like data scraping, game development, and financial analysis. This internship experience has been incredibly valuable for enhancing my Python development expertise.
 
 <p align="center">
-  <img src="https://github.com/maq765/ShadowFox/blob/main/Logo.jpg" alt="Logo">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/Logo.jpg" alt="Logo" width="300" height="300"> 
 </p>
 
 ---
