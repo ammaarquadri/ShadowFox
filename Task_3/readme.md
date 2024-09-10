@@ -1,5 +1,9 @@
 # Financial Data Analysis Project
 
+<p align="center">
+  <img src="https://github.com/maq765/ShadowFox/blob/main/shadowfox.png" alt="Logo" width="200" height="200">
+</p>
+
 ## Overview
 This project, completed as part of the Python Development Internship, involves analyzing a financial dataset using Python in a Jupyter notebook. The dataset includes key financial metrics such as net sales, profit, cost of goods sold (COGS), manufacturing costs, and freight costs.
 
